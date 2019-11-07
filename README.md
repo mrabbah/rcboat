@@ -44,8 +44,8 @@ L'objectif de cette phase est d'étudier le robot en notre possession, ensuite d
 2. Définir le montage mécanique cible
 3. Définir le schéma énergitique cible
 4. Définir les interfaces de communication (communication entre capteurs et carte embarquée, communication entre moteurs et carte embarquée, communication entre carte embarquée et ordianateur distant)
-
 ![shémas global](images/5.png)
+
 5. Phase familiarisation avec les cartes embarquées 
 6. Acquisition du matériels
 
