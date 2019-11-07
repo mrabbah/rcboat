@@ -1,4 +1,4 @@
-# RC BOAT
+# AUTONOMOUS RC BOAT
 ----
 L'objectif est de construire un bateau autonome.
 
