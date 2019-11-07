@@ -13,7 +13,7 @@ L'objectif de cette phase est d'étudier le robot en notre possession, ensuite d
 
 
 1. Définir un schéma électique du robot actuel
-![shémas global](images/1.PNG)
+![shémas global](images/1.png)
 
 2. Choix des capteurs nécessaires (idéalement trouvé des cartes contenant le tout: 
 
@@ -22,14 +22,14 @@ L'objectif de cette phase est d'étudier le robot en notre possession, ensuite d
 	* LIDAR (en option n'est pas obligatoire en première version)
 
 	
-	![](images/2.PNG)
+	![](images/2.png)
 
 
 3. Choix des cartes embarquées nécessaires
 4. Choix des composants électroniques pour la commande des moteurs (Exemple: H-Bridge, Servo-moteur...)
 
 
-	![](images/3.PNG)
+	![](images/3.png)
 
 5. Etude de l'étanchiété: l'objectif est d'avoir une vision sur comment on va protéger les composants électorniques
 6. Etude les sources d'alimentation nécéssaires (batteries...). 
@@ -39,13 +39,13 @@ L'objectif de cette phase est d'étudier le robot en notre possession, ensuite d
 
 1. Définir le shcéma électrique cible
 
-![shémas global](images/4.PNG)
+![shémas global](images/4.png)
 
 2. Définir le montage mécanique cible
 3. Définir le schéma énergitique cible
 4. Définir les interfaces de communication (communication entre capteurs et carte embarquée, communication entre moteurs et carte embarquée, communication entre carte embarquée et ordianateur distant)
 
-![shémas global](images/5.PNG)
+![shémas global](images/5.png)
 5. Phase familiarisation avec les cartes embarquées 
 6. Acquisition du matériels
 
