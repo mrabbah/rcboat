@@ -87,7 +87,9 @@ Notes:
 
 * Boat Autopilot Project - Overview and Explaination
 
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UF1n_a_od8Y/0.jpg)](https://www.youtube.com/watch?v= UF1n_a_od8Y)
+
 
 Notes: [LINK](https://www.instructables.com/id/Boat-Autopilot/)
 
